@@ -18,3 +18,6 @@
 
 
 [![sing](https://img.youtube.com/vi/LCK7IoYv6eE/0.jpg)](https://www.youtube.com/watch?v=LCK7IoYv6eE "sing")
+
+- [] todo list
+- [x] done_
