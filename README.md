@@ -14,4 +14,7 @@
 
 ![boy](./boy.jpg "boy")
 
-[![sing](./boy_sing.jpg)](https://www.youtube.com/watch?v=LCK7IoYv6eE "sing")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+
+[![sing](https://img.youtube.com/vi/LCK7IoYv6eE/0.jpg)](https://www.youtube.com/watch?v=LCK7IoYv6eE "sing")
