@@ -19,5 +19,11 @@
 
 [![sing](https://img.youtube.com/vi/LCK7IoYv6eE/0.jpg)](https://www.youtube.com/watch?v=LCK7IoYv6eE "sing")
 
-- [] todo list
-- [x] done_
+- [ ] todo list
+- [x] done
+
+```python
+count = [7, 6, 4, 8, 9, 1, 76, 10, 156]
+answer = str(max(count))
+print(float(answer)**2)
+```
